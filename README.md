@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">⚒ Currently Working as a Software Engineer<br>📚 I am learning DevSecOps</p>
+<p align="left">⚒ Currently Working as a Software Engineer<br>📚 I am learning DevOps</p>
 
 ###
 
