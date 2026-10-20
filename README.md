@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">⚒ Currently Working as a Software Engineer<br>📚 I am learning Backend and DevOps</p>
+<p align="left">⚒ Currently Working as a Software Engineer<br>📚 I am learning AI and Automations</p>
 
 ###
 
